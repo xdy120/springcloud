@@ -31,8 +31,3 @@ spring:
   application:
     name: service-client
   test: 159
-  rabbitmq:
-    addresses: amqp://10.7.123.87:5672
-    username: test
-    password: test
-    virtual-host: test
